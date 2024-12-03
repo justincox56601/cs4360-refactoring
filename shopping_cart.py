@@ -6,6 +6,7 @@ Refactoring to do
 Methods to look at
 	[] strangler fig
 	[] wrap
+	[] seam
 '''
 from typing import List, Dict
 from item import Item
